@@ -1,0 +1,2 @@
+# SAS-Programming.
+AirBnB Availability Prediction – Analyzed AirBnB data to identify customer behavioral pattern in multiple locations, found out their preference based on previous customer reviews and detected areas that need improvement to increase the business. Performed statistical analysis and hypothesis testing to find out relationship between different features that contribute to the business. Suggested strategies to improve the customer base in coming years. 
